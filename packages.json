@@ -1,0 +1,14 @@
+[
+    {
+        "package": "NWCTrends",
+        "url": "https://github.com/nwfsc-math-bio/NWCTrends"
+    },
+    {
+        "package": "rCAX",
+        "url": "https://github.com/nwfsc-math-bio/rCAX"
+    },
+    {
+        "package": "VRData",
+        "url": "https://github.com/nwfsc-math-bio/VRData"
+    }
+]
