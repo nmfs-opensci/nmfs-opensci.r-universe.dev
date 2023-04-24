@@ -8,6 +8,8 @@ https://ropensci.org/blog/2021/06/22/setup-runiverse/
 
 ## To use the linux binaries
 
+Help: https://github.com/r-universe-org/help#does-r-universe-have-linux-binaries
+
 ```
 options(repos = c(
   linux = 'https://nmfs-opensci.r-universe.dev/bin/linux/jammy/4.3/',
