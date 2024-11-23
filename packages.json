@@ -78,5 +78,9 @@
     {
         "package": "MAR1",
         "url": "https://github.com/atsa-es/MAR1"
+    },
+    {
+        "package": "Stock Assessment Tables and Figures"
+        "url": "https://github.com/nmfs-ost/satf"
     }
 ]
