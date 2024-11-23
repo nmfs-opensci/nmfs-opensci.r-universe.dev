@@ -2,24 +2,17 @@
 
 https://nmfs-opensci.r-universe.dev/packages: CRAN-like repository for NOAA Fisheries R packages. Binaries are available for Linux, Windows and MacOS.
 
+## To install packages
+
 To install packages from the NMFS-OpenSci R Package Repository:
 
 ```
-options(repos = c(
-    nmfs = 'https://nmfs-opensci.r-universe.dev',
-    CRAN = 'https://cloud.r-project.org'))
+install.packages('pkgname', repos = 'https://nmfs-opensci.r-universe.dev')
 ```
 
-Then you can install any of our packages. You should not have to build from source. After running the code above to add our repo to the options, install as
+## To add packages to the repository
 
-```
-install.packages('pkgname')
-```
-
-or you can run
-```
-install.packages('pkgname', repos = c(nmfs = 'https://nmfs-opensci.r-universe.dev', CRAN = 'https://cloud.r-project.org'))
-```
+Edit `packages.json` in this repository and put in a pull request.
 
 ## To use the linux binaries
 
