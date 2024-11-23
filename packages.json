@@ -1,18 +1,82 @@
 [
     {
+        "package": "FishSET",
+        "url": "https://github.com/noaa-nwfsc/FishSET"
+    },
+    {
+        "package": "SRKW Status",
+        "url": "https://github.com/noaa-nwfsc/srkw-status"
+    },
+    {
+        "package": "Zoid"
+        "url": "https://github.com/noaa-nwfsc/zoid"
+    },
+    {
+        "package": "ZoidTMB",
+        "url": "https://github.com/noaa-nwfsc/zoidtmb"
+    },
+    {
+        "package": "VRAP C++",
+        "url": "https://github.com/noaa-nwfsc/VRAPCpp"
+    },
+    {
+        "package": "PhenoMix",
+        "url": "https://github.com/nwfsc-cb/phenomix"
+    },
+    {
+        "package": "rCAX",
+        "url": "https://github.com/nwfsc-cb/rCAX"
+    },
+    {
+        "package": "Shellfish Genetic Risk",
+        "url": "https://github.com/nwfsc-cb/shellfish-genetic-risks"
+    },
+    {
         "package": "NWCTrends",
         "url": "https://github.com/nwfsc-math-bio/NWCTrends"
     },
     {
-        "package": "rCAX",
-        "url": "https://github.com/nwfsc-math-bio/rCAX"
-    },
-    {
-        "package": "VRData",
+        "package": "Viability Report Data",
         "url": "https://github.com/nwfsc-math-bio/VRData"
     },
     {
-        "package": "atsar",
-        "url": "https://github.com/atsa-es/atsar"
+        "package": "Viability and Risk Assessment Procedure",
+        "url": "https://github.com/nwfsc-math-bio/VRAP"
+    },
+    {
+        "package": "Dynamic Modeler in R",
+        "url": "https://github.com/nwfsc-math-bio/DM"
+    },
+    {
+        "package": "varlasso",
+        "url": "https://github.com/atsa-es/varlasso"
+    },
+    {
+        "package": "mvdlm",
+        "url": "https://github.com/atsa-es/mvdlm"
+    },
+    {
+        "package": "tvvarss",
+        "url": "https://github.com/atsa-es/tvvarss"
+    },
+    {
+        "package": "marssTMB",
+        "url": "https://github.com/atsa-es/marssTMB"
+    },
+    {
+        "package": "MARSS",
+        "url": "https://github.com/atsa-es/MARSS"
+    },
+    {
+        "package": "bayesdfa",
+        "url": "https://github.com/fate-ewi/bayesdfa"
+    },
+    {
+        "package": "maxnet",
+        "url": "https://github.com/BigelowLab/maxnet"
+    },
+    {
+        "package": "MAR1",
+        "url": "https://github.com/atsa-es/MAR1"
     }
 ]
