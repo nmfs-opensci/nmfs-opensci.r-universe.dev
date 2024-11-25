@@ -8,7 +8,7 @@
         "url": "https://github.com/noaa-nwfsc/srkw-status"
     },
     {
-        "package": "Zoid"
+        "package": "Zoid",
         "url": "https://github.com/noaa-nwfsc/zoid"
     },
     {
@@ -80,7 +80,7 @@
         "url": "https://github.com/atsa-es/MAR1"
     },
     {
-        "package": "Stock Assessment Tables and Figures"
+        "package": "Stock Assessment Tables and Figures",
         "url": "https://github.com/nmfs-ost/satf"
     }
 ]
