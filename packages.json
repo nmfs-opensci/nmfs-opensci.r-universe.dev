@@ -4,23 +4,23 @@
         "url": "https://github.com/noaa-nwfsc/FishSET"
     },
     {
-        "package": "SRKW Status",
+        "package": "kwdemog",
         "url": "https://github.com/noaa-nwfsc/srkw-status"
     },
     {
-        "package": "Zoid",
+        "package": "zoid",
         "url": "https://github.com/noaa-nwfsc/zoid"
     },
     {
-        "package": "ZoidTMB",
+        "package": "zoidtmb",
         "url": "https://github.com/noaa-nwfsc/zoidtmb"
     },
     {
-        "package": "VRAP C++",
+        "package": "VRAPS",
         "url": "https://github.com/noaa-nwfsc/VRAPCpp"
     },
     {
-        "package": "PhenoMix",
+        "package": "phenomix",
         "url": "https://github.com/nwfsc-cb/phenomix"
     },
     {
@@ -28,7 +28,7 @@
         "url": "https://github.com/nwfsc-cb/rCAX"
     },
     {
-        "package": "Shellfish Genetic Risk",
+        "package": "shellfishrisks",
         "url": "https://github.com/nwfsc-cb/shellfish-genetic-risks"
     },
     {
@@ -40,11 +40,11 @@
         "url": "https://github.com/nwfsc-math-bio/VRData"
     },
     {
-        "package": "Viability and Risk Assessment Procedure",
+        "package": "VRAP",
         "url": "https://github.com/nwfsc-math-bio/VRAP"
     },
     {
-        "package": "Dynamic Modeler in R",
+        "package": "DM",
         "url": "https://github.com/nwfsc-math-bio/DM"
     },
     {
@@ -80,7 +80,7 @@
         "url": "https://github.com/atsa-es/MAR1"
     },
     {
-        "package": "Stock Assessment Tables and Figures",
+        "package": "satf",
         "url": "https://github.com/nmfs-ost/satf"
     }
 ]
