@@ -4,7 +4,7 @@
         "url": "https://github.com/noaa-nwfsc/FishSET"
     },
     {
-        "package": "kwdemog",
+        "package": "srkwstatus",
         "url": "https://github.com/noaa-nwfsc/srkw-status"
     },
     {
@@ -80,7 +80,7 @@
         "url": "https://github.com/atsa-es/MAR1"
     },
     {
-        "package": "satf",
-        "url": "https://github.com/nmfs-ost/satf"
+        "package": "stockplotr",
+        "url": "https://github.com/nmfs-ost/stockplotr"
     }
 ]
